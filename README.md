@@ -87,4 +87,4 @@ I used Batch Processing features in GoldWave. After the Processing, rename the f
 Go back to RPG Maker MV(MZ) program, click playtest.
 ![화면 캡처 2022-12-04 131043](https://user-images.githubusercontent.com/65770938/205479689-aeccfd44-0f77-475e-85fd-86a2617409fe.png) |![화면 캡처 2022-12-04 130749](https://user-images.githubusercontent.com/65770938/205479692-b3f6df90-dc60-4e49-a6bd-7fc15423eccb.png)
 --- | --- |
-RPG Maker VX Ace game `544 x 416` | RPG Maker MZ game `816 x 624`
+RPG Maker VX Ace game `544 x 416` (source) | RPG Maker MZ game `816 x 624` (converted)
