@@ -21,6 +21,12 @@ If there's no Data folder and no Project file, please move to the next step.
 ## RPG Maker VX(Ace) decrypter ([Skip](https://github.com/Udtshi/RPG-Maker-converter/blob/main/README.md#convert) this step if you are satisfied with the requirements.)
 - Download this tool on the [website](http://rpgcrisis.net/forums/files/file/65-rgssad-rgss2a-rgss3a-decrypter/) or you can download directly from [here](https://github.com/Udtshi/RPG-Maker-converter/releases)
 - Search Game.rgss3a (encrypted game data) file.
+![화면 캡처 2022-12-04 161211-1](https://user-images.githubusercontent.com/65770938/205479010-b450547e-9d66-4083-85c4-62bab643f1b5.png)
+Open [RGSSAD - RGSS2A - RGSS3A Decrypter] program
+![화면 캡처 2022-12-04 161416-1](https://user-images.githubusercontent.com/65770938/205479113-514c876d-dbf4-4ebf-8c5b-b835eccba899.png)
+Extract all files and Generate Game project files to match your game version.
+![화면 캡처 2022-12-04 161729](https://user-images.githubusercontent.com/65770938/205479114-587b2428-b213-4b71-b6a4-11903e979caf.png)
+`Graphics`(picture data) and `Data`(remaining data) folders are created under the Extract folder. Game.rvproj(2) file created.
 
 ## Convert
 ### 1. Open RPG Maker VX(Ace) program
