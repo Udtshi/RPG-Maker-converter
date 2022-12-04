@@ -6,11 +6,15 @@
 Please check the DATA folder and the Game.rvproj(2)(RPGVX(Ace)Project) file exists in your game folder.
 
 ## Requirements
+### Tools
 - An RPG Maker game you want to convert
 - RPG Maker VX(Ace) and RPG Maker MV(MZ) program
 - Text editor (Recommended VSCode or notepad++)
 - Waifu2X (used for upscaling images for conversion)
 - Sound editor software (GoldWave, Audacity, etc...)
+### 
+- DATA folder
+- Game.rvproj (RPGVX Project) or Game.rvproj2 (RPGVXAce Project)
 ### Important
 - Script file to conversion
 Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-mv-converter.45296) or directly from [here](https://pastebin.com/dl/MBxUzQwP)
