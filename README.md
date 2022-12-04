@@ -85,6 +85,7 @@ I used Batch Processing features in GoldWave. After the Processing, rename the f
 
 ### 6. Copy Font
 ![화면 캡처 2022-12-04 183409](https://user-images.githubusercontent.com/65770938/205483694-daf72cb0-0f38-48e3-9287-f6e005d3564e.png)
+
 Head to the source `game folder\Fonts`, and copy to the converted 'game folder\Fonts'.
 
 ## Done
