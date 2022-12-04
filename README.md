@@ -18,7 +18,7 @@ Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-
 
 ## Convert
 ### Open RPG Maker VX(Ace) program
-- open decryped project file
+- Open decryped project file
 - Go to Tools - Script Editor
-- Copy the downloaded script and paste it 'ABOVE' the 'MAIN bench'
+- Copy the downloaded script and paste it `ABOVE` the `MAIN bench`
 ![화면 캡처 2022-12-04 121911-1](https://user-images.githubusercontent.com/65770938/205475688-4c51743a-8528-41c1-a4a3-c846f7b3aa6b.png)
