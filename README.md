@@ -9,6 +9,8 @@ Please check the DATA folder and the Game.rvproj(2)(RPGVX(Ace)Project) file exis
 - An RPG Maker game you want to convert
 - RPG Maker VX(Ace) and MV(MZ) program
 - Text Editor (Recommended VSCode)
-
+- Waifu2X (used for upscaling images for conversion)
+- Script file to conversion
+Download in [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-mv-converter.45296) or directly on [here](https://pastebin.com/dl/MBxUzQwP)
 ## (Skip this step if you are satisfied with the requirements.)
-- Use this [Tool](aa)
+- Use this [Tool](http://rpgcrisis.net/forums/files/file/65-rgssad-rgss2a-rgss3a-decrypter/) or you can download directly [here]
