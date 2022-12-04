@@ -91,4 +91,4 @@ RPG Maker VX Ace game `544 x 416` (source) | RPG Maker MZ game `816 x 624` (conv
 
 ## Errors
 RPG Maker MV(MZ) is basically operated as a javascript language.
-Please click [here](https://github.com/Udtshi/RPG-Maker-converter/wiki/Reported-errors) to check more information about it.
+Please click [here](https://github.com/Udtshi/RPG-Maker-converter/wiki/Home) to check more information about it.
