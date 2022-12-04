@@ -31,7 +31,7 @@ Open [RGSSAD - RGSS2A - RGSS3A Decrypter] program
 
 Copy these folder and project files to your source game folder, and delete Game.rgss3a (encrypted game data) file.
 
-## Convert
+## Convert the game
 ### 1. Open RPG Maker VX(Ace) program
   Open `decryped project file`(Game.rvproj(2)). Go to Tools - Script Editor, copy the downloaded script and paste it `ABOVE` the `MAIN bench`
 ![화면 캡처 2022-12-04 121911-1](https://user-images.githubusercontent.com/65770938/205475688-4c51743a-8528-41c1-a4a3-c846f7b3aa6b.png)
