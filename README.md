@@ -37,6 +37,7 @@ All we need to do is copy the converted JSON file.
   Go to `Documents\RMMZ\"Your project"` and overwrite converted JSON files into the data folder.
 
 ![화면 캡처 2022-12-04 122917](https://user-images.githubusercontent.com/65770938/205476123-69f7fdf2-b801-485b-80eb-995a1015db05.png)
+
 Close the project WITHOUT SAVING the project and open it again.
 
 ![화면 캡처 2022-12-04 124036](https://user-images.githubusercontent.com/65770938/205476265-e0896d59-5985-42c2-a6e1-b9c412cfcec5.png)
