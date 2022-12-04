@@ -14,4 +14,4 @@ Please check the DATA folder and the Game.rvproj(2)(RPGVX(Ace)Project) file exis
 - Script file to conversion
 Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-mv-converter.45296) or directly from [here](https://pastebin.com/dl/MBxUzQwP)
 ## RPG Maker VX(Ace) decrypter (Skip this step if you are satisfied with the requirements.)
-- Use this [Tool](http://rpgcrisis.net/forums/files/file/65-rgssad-rgss2a-rgss3a-decrypter/) or you can download directly [here]
+- Use this [Tool](http://rpgcrisis.net/forums/files/file/65-rgssad-rgss2a-rgss3a-decrypter/) or you can download directly [here](https://github.com/Udtshi/RPG-Maker-converter/releases)
