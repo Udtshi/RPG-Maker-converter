@@ -3,14 +3,14 @@
 ## Before the converting
 ### Requirements
 #### Core script file
-- Script file required for conversion\n
+- Script file required for conversion
 Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-mv-converter.45296) or directly from [here](https://pastebin.com/dl/MBxUzQwP)
 #### Tools
-- An RPG Maker game you want to convert
-- RPG Maker VX(Ace) and RPG Maker MV(MZ) program
-- Text editor (Recommended VSCode or notepad++)
-- Waifu2X (used for upscaling images for conversion)
-- Sound editor software (GoldWave, Audacity, etc...)
+- An `RPG Maker game` you want to convert
+- `RPG Maker VX(Ace) and RPG Maker MV(MZ) program`
+- `Text editor` (Recommended VSCode or notepad++)
+- `Waifu2X` (used for upscaling images for conversion)
+- `Sound editor software` (GoldWave, Audacity, etc...)
 #### Core files in the source game folder
 - DATA folder
 - Game.rvproj (RPGVX Project) or Game.rvproj2 (RPGVXAce Project)
