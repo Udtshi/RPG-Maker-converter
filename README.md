@@ -19,7 +19,7 @@ Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-
 If there's no Data folder and no Project file, please move to the next step.
 
 ## RPG Maker VX(Ace) decrypter ([Skip](https://github.com/Udtshi/RPG-Maker-converter/blob/main/README.md#convert) this step if you are satisfied with the requirements.)
-- Use this [Tool](http://rpgcrisis.net/forums/files/file/65-rgssad-rgss2a-rgss3a-decrypter/) or you can download directly [here](https://github.com/Udtshi/RPG-Maker-converter/releases)
+- Download this tool on the [website](http://rpgcrisis.net/forums/files/file/65-rgssad-rgss2a-rgss3a-decrypter/) or you can download directly from [here](https://github.com/Udtshi/RPG-Maker-converter/releases)
 - Search Game.rgss3a (encrypted game data) file.
 
 ## Convert
