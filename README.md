@@ -67,6 +67,6 @@ Add folder with MP3, WAV, etc files | Select OGG, 44100Hz, 192kpbs(depend on sou
 
 ![화면 캡처 2022-12-04 122506-1](https://user-images.githubusercontent.com/65770938/205477329-9a73c069-25d0-437a-986e-44c0d0421ec8.png) |![화면 캡처 2022-12-04 154019-1](https://user-images.githubusercontent.com/65770938/205478139-365acaf8-0a8b-4744-8629-f72fac1b3eff.png)
 -- | -- |
-Source audio file | converted autio file
+Source audio file | Converted audio file
 
 I used Batch Processing features in GoldWave. After the Processing, rename the folder name to lowercase. ex) BGM->bgm
