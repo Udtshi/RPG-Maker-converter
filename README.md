@@ -8,8 +8,9 @@ Please check the DATA folder and the Game.rvproj(2)(RPGVX(Ace)Project) file exis
 ## Requirements
 - An RPG Maker game you want to convert
 - RPG Maker VX(Ace) and MV(MZ) program
-- Text Editor (Recommended VSCode)
+- Text editor (Recommended VSCode or notepad++)
 - Waifu2X (used for upscaling images for conversion)
+- Sound editor software (GoldWave, Audacity, etc...)
 ### Important
 - Script file to conversion
 Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-mv-converter.45296) or directly from [here](https://pastebin.com/dl/MBxUzQwP)
@@ -59,3 +60,4 @@ Once you close the project and reopen it, the messy map data has been gone!
 
 ![화면 캡처 2022-12-04 152029](https://user-images.githubusercontent.com/65770938/205477443-52d3d534-4b66-4eb5-a3e9-81049fc8ce0b.png) |![화면 캡처 2022-12-04 152043](https://user-images.githubusercontent.com/65770938/205477441-2eb51689-7710-4916-8091-b37517c2d97a.png)
 -- | -- |
+I used Batch Processing features in GoldWave. After the Processing, rename the folder name to lowercase. ex) BGM->bgm
