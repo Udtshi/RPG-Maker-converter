@@ -33,9 +33,7 @@ Copy these folder and project files to your source game folder, and delete Game.
 
 ## Convert
 ### 1. Open RPG Maker VX(Ace) program
-  Open decryped project file
-  Go to Tools - Script Editor
-  Copy the downloaded script and paste it `ABOVE` the `MAIN bench`
+  Open `decryped project file`(Game.rvproj(2)). Go to Tools - Script Editor, copy the downloaded script and paste it `ABOVE` the `MAIN bench`
 ![화면 캡처 2022-12-04 121911-1](https://user-images.githubusercontent.com/65770938/205475688-4c51743a-8528-41c1-a4a3-c846f7b3aa6b.png)
 
 
@@ -54,7 +52,7 @@ RPG Maker VX(Ace) game data converted with JSON file. It will be used in the nex
 
 ![화면 캡처 2022-12-04 122917](https://user-images.githubusercontent.com/65770938/205476123-69f7fdf2-b801-485b-80eb-995a1015db05.png)
 
-Close the project WITHOUT SAVING the project and open it again.
+Close the project `WITHOUT SAVING` the project and open it again.
 
 ![화면 캡처 2022-12-04 124036](https://user-images.githubusercontent.com/65770938/205476265-e0896d59-5985-42c2-a6e1-b9c412cfcec5.png)
   VX(Ace) game data have been loaded successfully.
@@ -62,7 +60,7 @@ Close the project WITHOUT SAVING the project and open it again.
 
 
 ### 4. Upscale pictures 
-  RPG Maker VX(Ace) used a 544 x 416 for game resolution, and 32 x 32 for a block of tiles. but updated to MV(MZ), it changed to 816 x 624, and 48 x 48 each, a 1.5x increased.
+  RPG Maker VX(Ace) used a `544 x 416` for game resolution, and `32 x 32` for a block of tiles. but updated to MV(MZ), it changed to `816 x 624`, and `48 x 48` each, a 1.5x increased.
   So, we have to upscale images with a 1.5x increase on Waifu2X.
 ![화면 캡처 2022-12-04 122635-1](https://user-images.githubusercontent.com/65770938/205476946-5657b133-e486-4297-a732-3403a0b68bb6.png)
   Open Waifu2X, and set the size. Drag or click the Browse button to select the `Graphics` folder in your VX(Ace) game folder.
@@ -77,7 +75,7 @@ Once you close the project and reopen it, the messy map data has been gone!
 
 ![화면 캡처 2022-12-04 152029](https://user-images.githubusercontent.com/65770938/205477443-52d3d534-4b66-4eb5-a3e9-81049fc8ce0b.png) |![화면 캡처 2022-12-04 152043](https://user-images.githubusercontent.com/65770938/205477441-2eb51689-7710-4916-8091-b37517c2d97a.png)
 -- | -- |
-Add folder with MP3, WAV, etc files | Select OGG, 44100Hz, 192kpbs(depend on source file), stereo
+Add folder with `MP3`, `WAV`, `etc.` files | Select `OGG`, `44100Hz`, `192kpbs` (depend on source file), `stereo`
 
 ![화면 캡처 2022-12-04 122506-1](https://user-images.githubusercontent.com/65770938/205477329-9a73c069-25d0-437a-986e-44c0d0421ec8.png) |![화면 캡처 2022-12-04 154019-1](https://user-images.githubusercontent.com/65770938/205478139-365acaf8-0a8b-4744-8629-f72fac1b3eff.png)
 -- | -- |
