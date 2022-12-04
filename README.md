@@ -3,7 +3,7 @@
 ## Before the converting
 ### Requirements
 #### Core script file
-- Script file required for conversion
+- Script file required for conversion \n
 Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-mv-converter.45296) or directly from [here](https://pastebin.com/dl/MBxUzQwP)
 #### Tools
 - An RPG Maker game you want to convert
