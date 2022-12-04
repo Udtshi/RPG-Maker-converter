@@ -58,5 +58,5 @@ Once you close the project and reopen it, the messy map data has been gone!
 ![화면 캡처 2022-12-04 122506-1](https://user-images.githubusercontent.com/65770938/205477329-9a73c069-25d0-437a-986e-44c0d0421ec8.png)
 
 ![화면 캡처 2022-12-04 152029](https://user-images.githubusercontent.com/65770938/205477443-52d3d534-4b66-4eb5-a3e9-81049fc8ce0b.png) |![화면 캡처 2022-12-04 152043](https://user-images.githubusercontent.com/65770938/205477441-2eb51689-7710-4916-8091-b37517c2d97a.png)--- | --- |
-![image.jpg1](https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7289/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg) |![image.jpg2](https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7293/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg)
+![image.jpg1](https://user-images.githubusercontent.com/65770938/205477443-52d3d534-4b66-4eb5-a3e9-81049fc8ce0b.png) |![image.jpg2](https://user-images.githubusercontent.com/65770938/205477441-2eb51689-7710-4916-8091-b37517c2d97a.png)
 --- | --- | 
