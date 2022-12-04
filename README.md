@@ -30,7 +30,7 @@ Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-
   After the title appears, close the game window and check the game folder. mv-data folder will be created.
 ![화면 캡처 2022-12-04 122101-1](https://user-images.githubusercontent.com/65770938/205475945-0da81c94-5842-4cd4-a929-87223633efb9.png)
 
-All we need to do is copy the converted JSON file.
+RPG Maker VX(Ace) game data converted with JSON file. It will be used in the next step.
 
 
 ### 3. Open RPG Maker MV(MZ) program
