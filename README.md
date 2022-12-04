@@ -2,11 +2,11 @@
 
 ## Before the converting
 ### Requirements
+- An `RPG Maker game` you want to convert
 #### Core script file
 - Script file required for conversion
 Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-mv-converter.45296) or directly from [here](https://pastebin.com/dl/MBxUzQwP)
 #### Tools
-- An `RPG Maker game` you want to convert
 - `RPG Maker VX(Ace) and RPG Maker MV(MZ) program`
 - `Text editor` (Recommended VSCode or notepad++)
 - `Waifu2X` (used for upscaling images for conversion)
