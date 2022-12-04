@@ -75,7 +75,7 @@ Once you close the project and reopen it, the messy map data has been gone!
 
 ![화면 캡처 2022-12-04 152029](https://user-images.githubusercontent.com/65770938/205477443-52d3d534-4b66-4eb5-a3e9-81049fc8ce0b.png) |![화면 캡처 2022-12-04 152043](https://user-images.githubusercontent.com/65770938/205477441-2eb51689-7710-4916-8091-b37517c2d97a.png)
 -- | -- |
-Add folder with `MP3`, `WAV`, `etc.` files | Select `OGG`, `44100Hz`, `192kpbs` (depend on source file), `stereo`
+Add folder with `MP3`, `WAV`, `etc.` files | Select `OGG`, `44100Hz`, `192kpbs` (depended on the source file), `stereo`
 
 ![화면 캡처 2022-12-04 122506-1](https://user-images.githubusercontent.com/65770938/205477329-9a73c069-25d0-437a-986e-44c0d0421ec8.png) |![화면 캡처 2022-12-04 154019-1](https://user-images.githubusercontent.com/65770938/205478139-365acaf8-0a8b-4744-8629-f72fac1b3eff.png)
 -- | -- |
