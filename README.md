@@ -54,4 +54,6 @@ Once you close the project and reopen it, the messy map data has been gone!
 
 ### 5. Sound convert
   Unfortunately, RPG Maker MV(MZ) supports M4A and OGG audio files. I recommend converting to OGG because it can be used on PC and Android platforms.
-  ![화면 캡처 2022-12-04 122506](https://user-images.githubusercontent.com/65770938/205477299-055d5743-a672-4bae-a1cd-3c3ddc00bd52.png)
+  
+![화면 캡처 2022-12-04 122506-1](https://user-images.githubusercontent.com/65770938/205477329-9a73c069-25d0-437a-986e-44c0d0421ec8.png)
+
