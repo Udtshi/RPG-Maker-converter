@@ -50,4 +50,4 @@ Close the project WITHOUT SAVING the project and open it again.
   When the processing has been done, Graphics(your selected option) folder is created. Enter the folder, select all the folders, overwrite to MV(MZ) project folder `Documents\RMMZ\"your project"\img`.
   
 ![화면 캡처 2022-12-04 123925](https://user-images.githubusercontent.com/65770938/205477127-e2eee6bb-38de-44ec-a8ae-ef3109724a6b.png)
-The messy map data has been gone!
+Once you close the project and reopen it, the messy map data has been gone!
