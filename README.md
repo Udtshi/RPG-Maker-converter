@@ -46,4 +46,5 @@ Close the project WITHOUT SAVING the project and open it again.
   RPG Maker VX(Ace) used a 544 x 416 for game resolution, and 32 x 32 for a block of tiles. but updated to MV(MZ), it changed to 816 x 624, and 48 x 48 each, a 1.5x increased.
   So, we have to upscale images with a 1.5x increase on Waifu2X.
 ![화면 캡처 2022-12-04 122635-1](https://user-images.githubusercontent.com/65770938/205476946-5657b133-e486-4297-a732-3403a0b68bb6.png)
-  Open Waifu2X, and set the size. Drag or click Browse button and select the `Graphics` folder in your VX(Ace) game folder.
+  Open Waifu2X, and set the size. Drag or click the Browse button to select the `Graphics` folder in your VX(Ace) game folder.
+  When the processing has been done, Graphics(your selected option) folder is created. Enter the folder, select all the folders, overwrite to MV(MZ) project folder `Documents\RMMZ\"your project"\img`.
