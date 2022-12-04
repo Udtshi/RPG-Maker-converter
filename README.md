@@ -15,7 +15,7 @@ Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-
 - `DATA folder`
 - `Game.rvproj` (RPGVX Project) or `Game.rvproj2` (RPGVXAce Project)
 ![화면 캡처 2022-12-04 122023](https://user-images.githubusercontent.com/65770938/205474301-9c0bc625-6027-450a-9c44-fd8157bd2708.png)
-- If there's no Data folder and no Project file, please move to the next step.
+If there's no Data folder and no Project file, please move to the next step.
 
 ## RPG Maker VX(Ace) decrypter ([Skip](https://github.com/Udtshi/RPG-Maker-converter/blob/main/README.md#convert) this step if you are satisfied with the requirements.)
 - Use this [Tool](http://rpgcrisis.net/forums/files/file/65-rgssad-rgss2a-rgss3a-decrypter/) or you can download directly [here](https://github.com/Udtshi/RPG-Maker-converter/releases)
