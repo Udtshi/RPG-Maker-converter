@@ -1,6 +1,6 @@
 # Convert RPG Maker VX(Ace) game to MV(MZ)
 
-## Before the converting
+## Before the game convert
 ### Requirements
 - An `RPG Maker game` you want to convert
 #### Core script file
