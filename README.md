@@ -27,4 +27,18 @@ Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-
 - When the game start, the convert script will be launched. Please be patient to wait.
 - After the title appears, close the game window and check the game folder. mv-data folder will be created.
 ![화면 캡처 2022-12-04 122101-1](https://user-images.githubusercontent.com/65770938/205475945-0da81c94-5842-4cd4-a929-87223633efb9.png)
+
 All we need to do is copy the converted JSON file.
+
+### 3. Open RPG Maker MV(MZ) program
+- Go to File and create new project.
+![화면 캡처 2022-12-04 122846](https://user-images.githubusercontent.com/65770938/205476114-e0b31a5b-e419-4be5-9aa1-7f5e8c3bc4bf.png)
+- Go to `Documents\RMMZ\"Your project"` and overwrite converted JSON files into the data folder.
+![화면 캡처 2022-12-04 122917](https://user-images.githubusercontent.com/65770938/205476123-69f7fdf2-b801-485b-80eb-995a1015db05.png)
+- Close the project WITHOUT SAVING the project and open it again.
+![화면 캡처 2022-12-04 124036](https://user-images.githubusercontent.com/65770938/205476265-e0896d59-5985-42c2-a6e1-b9c412cfcec5.png)
+- VX(Ace) game data have been loaded successfully.
+But as you can see, map data looks messy. It means you have to convert not only map data but also pictures too.
+
+### 4. Upscale pictures 
+
