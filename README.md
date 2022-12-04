@@ -12,8 +12,8 @@ Download from [here](https://forums.rpgmakerweb.com/index.php?threads/vx-ace-to-
 - `Waifu2X` (used for upscaling images for conversion)
 - `Sound editor software` (GoldWave, Audacity, etc...)
 #### Core files in the source game folder
-- DATA folder
-- Game.rvproj (RPGVX Project) or Game.rvproj2 (RPGVXAce Project)
+- `DATA folder`
+- `Game.rvproj` (RPGVX Project) or `Game.rvproj2` (RPGVXAce Project)
 ![화면 캡처 2022-12-04 122023](https://user-images.githubusercontent.com/65770938/205474301-9c0bc625-6027-450a-9c44-fd8157bd2708.png)
 
 
