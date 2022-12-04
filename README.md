@@ -83,6 +83,10 @@ Source audio file | Converted audio file
 
 I used Batch Processing features in GoldWave. After the Processing, rename the folder name to lowercase. ex) BGM->bgm
 
+### 6. Copy Font
+![화면 캡처 2022-12-04 183409](https://user-images.githubusercontent.com/65770938/205483694-daf72cb0-0f38-48e3-9287-f6e005d3564e.png)
+Head to the source `game folder\Fonts`, and copy to the converted 'game folder\Fonts'.
+
 ## Done
 Go back to RPG Maker MV(MZ) program, click playtest.
 ![화면 캡처 2022-12-04 131043](https://user-images.githubusercontent.com/65770938/205479689-aeccfd44-0f77-475e-85fd-86a2617409fe.png) |![화면 캡처 2022-12-04 130749](https://user-images.githubusercontent.com/65770938/205479692-b3f6df90-dc60-4e49-a6bd-7fc15423eccb.png)
