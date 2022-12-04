@@ -7,7 +7,7 @@ Please check the DATA folder and the Game.rvproj(2)(RPGVX(Ace)Project) file exis
 
 ## Requirements
 - An RPG Maker game you want to convert
-- RPG Maker VX(Ace) and MV(MZ) program
+- RPG Maker VX(Ace) and RPG Maker MV(MZ) program
 - Text editor (Recommended VSCode or notepad++)
 - Waifu2X (used for upscaling images for conversion)
 - Sound editor software (GoldWave, Audacity, etc...)
