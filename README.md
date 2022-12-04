@@ -82,3 +82,9 @@ Add folder with `MP3`, `WAV`, `etc.` files | Select `OGG`, `44100Hz`, `192kpbs` 
 Source audio file | Converted audio file
 
 I used Batch Processing features in GoldWave. After the Processing, rename the folder name to lowercase. ex) BGM->bgm
+
+## Done
+Go back to RPG Maker MV(MZ) program, click playtest.
+![화면 캡처 2022-12-04 131043](https://user-images.githubusercontent.com/65770938/205479689-aeccfd44-0f77-475e-85fd-86a2617409fe.png) |![화면 캡처 2022-12-04 130749](https://user-images.githubusercontent.com/65770938/205479692-b3f6df90-dc60-4e49-a6bd-7fc15423eccb.png)
+--- | --- |
+RPG Maker VX Ace game `544 x 416` | RPG Maker MZ game `816 x 624`
