@@ -43,7 +43,7 @@ Close the project WITHOUT SAVING the project and open it again.
   But as you can see, map data looks messy. It means you have to convert not only map data but also pictures too.
 
 ### 4. Upscale pictures 
-  RPG Maker VX(Ace) used a 500*300 size map. but updated to MV(MZ), it changed to 816*624, 50% and 1.5X increased.
-  So, we have to upscale images as 1.5 Multiply with Waifu2X.
+  RPG Maker VX(Ace) used a 544 x 416 for game resolution, and 32 x 32 for a block of tiles. but updated to MV(MZ), it changed to 816 x 624, and 48 x 48 each, a 1.5x increased.
+  So, we have to upscale images with a 1.5x increase on Waifu2X.
   Open Waifu2X, and set it.
 ![화면 캡처 2022-12-04 122635](https://user-images.githubusercontent.com/65770938/205476552-f47fe136-69c5-488b-b961-efe64ea435e6.png)
