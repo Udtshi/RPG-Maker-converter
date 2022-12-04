@@ -27,7 +27,9 @@ Open [RGSSAD - RGSS2A - RGSS3A Decrypter] program
 
 ![화면 캡처 2022-12-04 161416-1](https://user-images.githubusercontent.com/65770938/205479113-514c876d-dbf4-4ebf-8c5b-b835eccba899.png) |![화면 캡처 2022-12-04 161729](https://user-images.githubusercontent.com/65770938/205479114-587b2428-b213-4b71-b6a4-11903e979caf.png)
 ---| ---|
-Extract all files and Generate Game project files to match your game version. | `Graphics`(picture data) and `Data`(remaining data) folders are created under the Extract folder. Game.rvproj(2) file created.
+`Extract all files` and `Generate Game project files` to match your game version. | `Graphics`(picture data) and `Data`(remaining data) folders are created under the Extract folder. Game.rvproj(2) file has been created.
+
+Copy these folder and project files to your source game folder, and delete Game.rgss3a (encrypted game data) file.
 
 ## Convert
 ### 1. Open RPG Maker VX(Ace) program
